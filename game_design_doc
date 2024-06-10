@@ -1,0 +1,32 @@
+# Game Design Document: Wraith's Haven
+
+## Game Jam Description:
+- Chill / Laid Back Game
+- Summer
+- Island
+
+## Game Summary / Pitch:
+Players select from a monster that they want to play as. Their goal is to navigate off the island. 
+If NPCs view the monster they will alert others and it will get crazier and ultimately more difficult to navigate off the island.
+The character attempts retrieve ‘artifacts’ that allow them to move more freely around the map and eventually escape.
+
+## Inspiration:
+- Grand Theft Auto: Open map but with inverse character / NPC interactions where you don’t want to alert others or create issues. 
+- Scooby Doo Movie (2002): Scooby-Doo movie was a favorite of mine when I was a kid. The premise is that Scooby and crew are at the island resort when a mysterious monster starts taking over the island. You're that monster but will you have the same motives. 
+
+
+## Player Experience: 
+The player will navigate around the island trying to retrieve as many artifacts as possible in order to return back to their natural habitat. The more they interact with other characters, the crazier the environment gets and more difficult it becomes to get off the island. 
+
+- Current Monsters to Select: 
+  - Ghost
+  - Mummy
+
+## Platforms:
+The game is developed to be released on Windows PC & Mac
+
+## Development Software:
+Unity
+
+Genre:
+Singleplayer, Casual, Rogue
