@@ -361,7 +361,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs"
+"Assets/Water/Scripts/Editor/GeneratePlane.cs"
 -langversion:9.0
 
 /deterministic

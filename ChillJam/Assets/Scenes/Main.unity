@@ -605,6 +605,10 @@ PrefabInstance:
       propertyPath: m_UseGravity
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1261856138619774014, guid: ec7c7b567105649d6b7a39b5aebe59c6, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6227753710684367812, guid: ec7c7b567105649d6b7a39b5aebe59c6, type: 3}
       propertyPath: m_Name
       value: Coffee Bean

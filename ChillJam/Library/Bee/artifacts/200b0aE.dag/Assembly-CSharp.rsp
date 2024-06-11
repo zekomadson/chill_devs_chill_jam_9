@@ -346,10 +346,10 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/GhostCharacter_Free/Scripts/GhostScript.cs"
-"Assets/LowPolyWater_Pack/Scripts/LowPolyWater.cs"
+"Assets/Ghost Character/Scripts/GhostScript.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Rotator.cs"
+"Assets/Water/Scripts/LowPolyWater.cs"
 -langversion:9.0
 
 /deterministic

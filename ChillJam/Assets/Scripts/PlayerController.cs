@@ -37,7 +37,7 @@ public class PlayerController : MonoBehaviour
     {
         string collectibleTag = "Collectible";
 
-        if (other.gameObject.CompareTag("Collectible")) 
+        if (other.gameObject.CompareTag(collectibleTag)) 
         {
             other.gameObject.SetActive(false);
         }
