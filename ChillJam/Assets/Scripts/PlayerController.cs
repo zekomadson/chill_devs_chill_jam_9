@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     public float speed = 0;
 
     public TextMeshProUGUI ctText;
+
     private int coffeeBeanCt;
     private Rigidbody rb;
 
