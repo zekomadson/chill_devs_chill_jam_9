@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     public void StartGame()
     {
         // Load Scene Called: Main
-        string gameSceneName = "Main";
+        string gameSceneName = "Game";
         SceneManager.LoadScene(gameSceneName);
 
     }
