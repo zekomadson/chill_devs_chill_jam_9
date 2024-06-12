@@ -11,6 +11,7 @@ public class Rotator : MonoBehaviour
         float xRotate = 175f;
         float yRotate = 0f;
         float zRotate = 0f;
+        
         transform.Rotate(new Vector3(xRotate, yRotate,zRotate) * Time.deltaTime);
     }
 }
