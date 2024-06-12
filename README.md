@@ -17,4 +17,6 @@ URL: https://itch.io/jam/chill-jam-9
 - Setup Pause Menu
 - Setup Game Over Menu
 - Set up home base for ghost
+  - A simple fire that brews the coffee.
 - Set up initial beach to find coffee beans
+- Gravestones have new recipes, they are cryptic.
