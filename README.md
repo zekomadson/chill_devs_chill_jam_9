@@ -23,3 +23,4 @@ URL: https://itch.io/jam/chill-jam-9
 - NPCs Navigate between waypoints
 - NPCs chase you once you get close and will chase for 10-15 seconds
   - If NPC damages you their timer resets
+- Sound and Effects when you move 
