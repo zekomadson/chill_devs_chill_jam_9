@@ -20,3 +20,6 @@ URL: https://itch.io/jam/chill-jam-9
   - A simple fire that brews the coffee.
 - Set up initial beach to find coffee beans
 - Gravestones have new recipes, they are cryptic.
+- NPCs Navigate between waypoints
+- NPCs chase you once you get close and will chase for 10-15 seconds
+  - If NPC damages you their timer resets
