@@ -4215,3 +4215,263 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Graveyard/Prefabs/grave8.prefab using Guid(9eb22df59167cf543ac139f28667c909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97d7ac964201c07e94833e83811df2ea') in 0.006199 seconds 
 Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 18888.794830 seconds.
+  path: Assets/Graveyard/Materials/grass.mat
+  artifactKey: Guid(51c992598a3f224449c372b21a0cc7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/grass.mat using Guid(51c992598a3f224449c372b21a0cc7c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658186b909e46c4a42b41ac63da07b13') in 0.153476 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Graveyard/Materials/Vertexcolor.mat
+  artifactKey: Guid(9b9a19f163fe2aa438cbf6e78720cfff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/Vertexcolor.mat using Guid(9b9a19f163fe2aa438cbf6e78720cfff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bec40f0119ec43b6d3a652b6afb9b0e6') in 0.224380 seconds 
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Graveyard/Materials/plitka.mat
+  artifactKey: Guid(c7e151c6881c0c048a941206cc5c8c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/plitka.mat using Guid(c7e151c6881c0c048a941206cc5c8c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dadae41c5ad3ebe74a09e1a43a4ce506') in 0.005894 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Graveyard/Materials/Ground.png
+  artifactKey: Guid(c1d7fc9b0d1d6054b84057fa9054932b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/Ground.png using Guid(c1d7fc9b0d1d6054b84057fa9054932b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0ff45a5a08da0d8172488bb4f3ebbe') in 0.069499 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Graveyard/Materials/New Material.mat
+  artifactKey: Guid(15647121468b2074d9e98d64f2d4ee34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/New Material.mat using Guid(15647121468b2074d9e98d64f2d4ee34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c83fb14aa57a6ad5fbaa4175e323880') in 0.058328 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 140.691137 seconds.
+  path: Assets/Graveyard/Prefabs/brokentombstone1.prefab
+  artifactKey: Guid(30ae1bb7dcd8b284698b5e1e1c9bb0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/brokentombstone1.prefab using Guid(30ae1bb7dcd8b284698b5e1e1c9bb0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b482f77b0790db33037b4f050bc9d83') in 0.043562 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.874160 seconds.
+  path: Assets/Graveyard/Prefabs/brokentombstone1.prefab
+  artifactKey: Guid(30ae1bb7dcd8b284698b5e1e1c9bb0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/brokentombstone1.prefab using Guid(30ae1bb7dcd8b284698b5e1e1c9bb0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f306f665792d7346c785309f3e709344') in 0.009047 seconds 
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 3924.312527 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8527e69edf6912c89933c1a2d2c93139') in 0.018650 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.615695 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3eb8cfd1632d81f65f83d160618ca7') in 0.007905 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.992253 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f979609cc692373583679797fc1d99') in 0.005945 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 7.512326 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8018e5ec8dbffc19d2a52c3045751a8') in 0.007635 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 30.294272 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f47f9ade5f3b1651f7149aa775daa71') in 0.008889 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 7.881350 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9bafdb428c344cf46642cb6806c9ae') in 0.006662 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 39.287117 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5bfba030eb58e2310a9a7aed435c2c') in 0.006202 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.409412 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66ec7aebfa8b1cf38192fa6d5e13f5ec') in 0.006953 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 23.508235 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '813f866d951dcad06bdb1b8680eb4968') in 0.008513 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 9.699075 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4acc9e41984f69868a869c1e4bdac824') in 0.009245 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 6.238025 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f81d13a2c6ffe156b4a08eba1a5687d') in 0.008600 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 8.671442 seconds.
+  path: Assets/Graveyard/Prefabs/buried grave2.prefab
+  artifactKey: Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/buried grave2.prefab using Guid(ad738a6f9b3f1054e96395e09e05cad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9abcb5446224ac78cca9315af242309c') in 0.006869 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 116.563795 seconds.
+  path: Assets/Graveyard/Prefabs/humanchest.prefab
+  artifactKey: Guid(516495b6dbb4c2c46920ae41ff63a7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/humanchest.prefab using Guid(516495b6dbb4c2c46920ae41ff63a7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8784fe3b5546870f9d00e6426096b9') in 0.006600 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 16.795959 seconds.
+  path: Assets/Graveyard/Prefabs/humanchest.prefab
+  artifactKey: Guid(516495b6dbb4c2c46920ae41ff63a7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/humanchest.prefab using Guid(516495b6dbb4c2c46920ae41ff63a7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6432afbb7bc8ce4144be97747f487688') in 0.004639 seconds 
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 2.389971 seconds.
+  path: Assets/Graveyard/Prefabs/humanchest.prefab
+  artifactKey: Guid(516495b6dbb4c2c46920ae41ff63a7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/humanchest.prefab using Guid(516495b6dbb4c2c46920ae41ff63a7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ac6a7240ac41c165f99cab46f10e92c') in 0.004601 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 89.096420 seconds.
+  path: Assets/Graveyard/Prefabs/skeleton.prefab
+  artifactKey: Guid(39f905046dc03414f8baad7aa032a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/skeleton.prefab using Guid(39f905046dc03414f8baad7aa032a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ae6044282c653722003ee571787fc39') in 0.005586 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 9.942000 seconds.
+  path: Assets/Graveyard/Prefabs/skeleton.prefab
+  artifactKey: Guid(39f905046dc03414f8baad7aa032a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/skeleton.prefab using Guid(39f905046dc03414f8baad7aa032a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0afa77500ff962653580fa257db08dd9') in 0.008017 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 9.681096 seconds.
+  path: Assets/Graveyard/Prefabs/skeleton.prefab
+  artifactKey: Guid(39f905046dc03414f8baad7aa032a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Prefabs/skeleton.prefab using Guid(39f905046dc03414f8baad7aa032a723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1832504d982d7f7db7271e3cb288b09') in 0.008400 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f743000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Domain Reload Profiling:
+	ReloadAssembly (952ms)
+		BeginReloadAssembly (140ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (70ms)
+		EndReloadAssembly (760ms)
+			LoadAssemblies (48ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (176ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (493ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (25ms)
+				ProcessInitializeOnLoadAttributes (453ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3459 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (0.6 MB). Loaded Objects now: 4139.
+Memory consumption went from 144.0 MB to 143.4 MB.
+Total: 2.598792 ms (FindLiveObjects: 0.137250 ms CreateObjectMapping: 0.055333 ms MarkObjects: 2.174083 ms  DeleteObjects: 0.231667 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

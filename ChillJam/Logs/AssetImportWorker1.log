@@ -3887,3 +3887,111 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 22118.714134 seconds.
+  path: Assets/Graveyard/Materials/grass1.png
+  artifactKey: Guid(d261b31106421ec429c4b730d13665ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/grass1.png using Guid(d261b31106421ec429c4b730d13665ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd9c0968741073422680eb6e5d29c63c') in 0.366441 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Graveyard/Materials/Sand.png
+  artifactKey: Guid(6d1242119c516264fb3e0eb4e8d6d981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/Sand.png using Guid(6d1242119c516264fb3e0eb4e8d6d981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13f28f8a10f3e253882c279c9421dcf') in 0.004905 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Graveyard/Materials/sand.mat
+  artifactKey: Guid(da4f8f9d8f46d57419eb776dc69c076c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/sand.mat using Guid(da4f8f9d8f46d57419eb776dc69c076c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd36a1bacc228172f2c00a6ceec6608d7') in 0.095924 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Graveyard/Materials/Plitka_blue.png
+  artifactKey: Guid(340123fd29b20fe4baedea58948760b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/Plitka_blue.png using Guid(340123fd29b20fe4baedea58948760b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f1cfce4b8fcda1a5d3ee7ccb7c00949') in 0.005082 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Graveyard/Materials/SkyboxTexture1.png
+  artifactKey: Guid(147994efded7ee848a5a5239787b636f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/SkyboxTexture1.png using Guid(147994efded7ee848a5a5239787b636f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c079149f071f6121091d19d021b795f2') in 0.003983 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Graveyard/Materials/ground.mat
+  artifactKey: Guid(79cf9b1e0ef79bf489280ddf77bdecda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Graveyard/Materials/ground.mat using Guid(79cf9b1e0ef79bf489280ddf77bdecda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce705363d7ba1b193b342843fb61d42f') in 0.005192 seconds 
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001111 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16f50f000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.935 seconds
+Domain Reload Profiling:
+	ReloadAssembly (936ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (68ms)
+		EndReloadAssembly (755ms)
+			LoadAssemblies (37ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (165ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (506ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (463ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3459 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (0.6 MB). Loaded Objects now: 4138.
+Memory consumption went from 139.7 MB to 139.1 MB.
+Total: 2.625916 ms (FindLiveObjects: 0.167209 ms CreateObjectMapping: 0.063583 ms MarkObjects: 2.162167 ms  DeleteObjects: 0.232666 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
