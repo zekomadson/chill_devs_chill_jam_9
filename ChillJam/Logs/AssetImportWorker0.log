@@ -6751,3 +6751,503 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Vegetation/Prefab/Fortress.prefab using Guid(3b5b1a234fb1d3d43b223c202452bfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89549872d5d74d640b94585295a05bc2') in 0.052104 seconds 
 Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 8375.331317 seconds.
+  path: Assets/Vegetation/Prefab/Fortress.prefab
+  artifactKey: Guid(3b5b1a234fb1d3d43b223c202452bfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Fortress.prefab using Guid(3b5b1a234fb1d3d43b223c202452bfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadcd64ca316979e3b86b6137901a36f') in 0.034179 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 8.034131 seconds.
+  path: Assets/Vegetation/Prefab/Banana_tree.prefab
+  artifactKey: Guid(436b0840ee3788c4688414f3004c2020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Banana_tree.prefab using Guid(436b0840ee3788c4688414f3004c2020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d9a50f71d67a3458d2e87f378cb0986') in 0.007350 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 14.023847 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_B.prefab
+  artifactKey: Guid(ce2edcf8e844ea74592c4f1822aa7183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_B.prefab using Guid(ce2edcf8e844ea74592c4f1822aa7183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e8206b8d564c3a4035f3b0a6b7b987') in 0.007361 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.627578 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_C.prefab
+  artifactKey: Guid(dfc274fbae6ef6d4d8854f32c682bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_C.prefab using Guid(dfc274fbae6ef6d4d8854f32c682bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '452bd6d40d9e60ebb1dd9a37fada8f90') in 0.007277 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 4.243572 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_D.prefab
+  artifactKey: Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_D.prefab using Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77dd0457526f57a094d65a4711edcdf0') in 0.006301 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 21.249840 seconds.
+  path: Assets/Vegetation/Prefab/Tower.prefab
+  artifactKey: Guid(d0449870edb2e0b45b48a0c6c90f19ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Tower.prefab using Guid(d0449870edb2e0b45b48a0c6c90f19ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d88f067a3d30fe2ae92ecd105f4c1fa') in 0.008969 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 7.286808 seconds.
+  path: Assets/Vegetation/Prefab/Tower.prefab
+  artifactKey: Guid(d0449870edb2e0b45b48a0c6c90f19ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Tower.prefab using Guid(d0449870edb2e0b45b48a0c6c90f19ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e7d0e0761d2db72f4cab74466a33b0') in 0.007175 seconds 
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 142.515031 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_A.prefab
+  artifactKey: Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_A.prefab using Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ae2944211505c45e4e29a5b70063f74') in 0.033585 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 411.218152 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec35f72ebeb42e60417a3fa2e9a4559') in 0.050870 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 6.159307 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'add990dd0c4a0bc815ba9fe865d4fd0f') in 0.007590 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 20.609643 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea80f1dd3534fa5ffa544dfc9996075d') in 0.010962 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 8.453670 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0888b67cfabac42476f9e4144c679f40') in 0.006521 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 4.846066 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba9f43f8c63bd08395afd9cfa10e927e') in 0.006272 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 8.882610 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb376d6a23e0eb7c678c943847491c25') in 0.007227 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 4.817732 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730a32f9b9300ef782956ba96b4c2266') in 0.006593 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 9.085018 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbe19385acc5bed586f787bb43cf470') in 0.008042 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 59.092317 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca7ef58c6aba382b1fef9c93a2f03bc6') in 0.061390 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 13.666929 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f35513d7b4f14718b7f6efa057f0fad') in 0.008128 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 4.853004 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5ba48c4f92870efbedfd5465208307') in 0.006581 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 2.217162 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd62f3dc9dc8a0b728245ddf33bedf9ee') in 0.008733 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 4.418695 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c1ed5616c0aae94a869dacb098b08d') in 0.007456 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 5.417857 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc98054da20e985ceaa79e088c88cb6b') in 0.005421 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 3.859412 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5b929c91f4ee2769c12d9762479381a') in 0.005764 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 6.472760 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6091300172963f131439c5bdd1c9543') in 0.006056 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 13.305591 seconds.
+  path: Assets/Vegetation/Prefab/Palm_tree.prefab
+  artifactKey: Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Palm_tree.prefab using Guid(23e53c37a90056a4aa469111e823e44f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e8cb8415f7ef1ce9acb795aa5c2afe') in 0.006323 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001142 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fdd3000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Domain Reload Profiling:
+	ReloadAssembly (934ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (762ms)
+			LoadAssemblies (40ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (169ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (504ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (27ms)
+				ProcessInitializeOnLoadAttributes (462ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3574 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (4.5 MB). Loaded Objects now: 4235.
+Memory consumption went from 188.6 MB to 184.2 MB.
+Total: 3.308583 ms (FindLiveObjects: 0.128417 ms CreateObjectMapping: 0.057875 ms MarkObjects: 2.146625 ms  DeleteObjects: 0.975458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 94.229140 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8baa2e538a8af32339dbf57104ad6865') in 0.044519 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 13.767504 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d4596d1ca16996456e18583466927f4') in 0.007888 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 7.658325 seconds.
+  path: Assets/Vegetation/Prefab/Coconut_tree.prefab
+  artifactKey: Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Coconut_tree.prefab using Guid(e654d60c310b3b742b6553f2d143f954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c79135edd03d5b64ddec79c2d2bf29cb') in 0.007134 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001008 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fdd3000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.894 seconds
+Domain Reload Profiling:
+	ReloadAssembly (895ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (748ms)
+			LoadAssemblies (33ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (159ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (502ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (28ms)
+				ProcessInitializeOnLoadAttributes (459ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3574 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (4.5 MB). Loaded Objects now: 4238.
+Memory consumption went from 188.6 MB to 184.2 MB.
+Total: 3.409125 ms (FindLiveObjects: 0.138791 ms CreateObjectMapping: 0.062459 ms MarkObjects: 2.201083 ms  DeleteObjects: 1.006166 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001106 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fdd3000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.936 seconds
+Domain Reload Profiling:
+	ReloadAssembly (937ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (62ms)
+		EndReloadAssembly (771ms)
+			LoadAssemblies (39ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (175ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (508ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (27ms)
+				ProcessInitializeOnLoadAttributes (466ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3574 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (4.5 MB). Loaded Objects now: 4241.
+Memory consumption went from 188.7 MB to 184.2 MB.
+Total: 3.434042 ms (FindLiveObjects: 0.172000 ms CreateObjectMapping: 0.060917 ms MarkObjects: 2.185917 ms  DeleteObjects: 1.014958 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 73.173310 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_B.prefab
+  artifactKey: Guid(ce2edcf8e844ea74592c4f1822aa7183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_B.prefab using Guid(ce2edcf8e844ea74592c4f1822aa7183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59cfae3f6463a391dffb0428abafb14') in 0.047607 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.685731 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_B.prefab
+  artifactKey: Guid(ce2edcf8e844ea74592c4f1822aa7183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_B.prefab using Guid(ce2edcf8e844ea74592c4f1822aa7183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21e62f70750873a014540c843fc74928') in 0.004691 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 6.739845 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_C.prefab
+  artifactKey: Guid(dfc274fbae6ef6d4d8854f32c682bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_C.prefab using Guid(dfc274fbae6ef6d4d8854f32c682bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53aea8242096020a9af9f7bc8154be68') in 0.008051 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 7.461849 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_C.prefab
+  artifactKey: Guid(dfc274fbae6ef6d4d8854f32c682bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_C.prefab using Guid(dfc274fbae6ef6d4d8854f32c682bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d257c63db6cae8132aaf0c9272609d6') in 0.009788 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 10.506176 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_D.prefab
+  artifactKey: Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_D.prefab using Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8dbe1b5d4bfb405b2521d9bc72314d3') in 0.010430 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 5.852290 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_D.prefab
+  artifactKey: Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_D.prefab using Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19583375adffae0c2d6cdb695ca0391f') in 0.009111 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 9.117740 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_D.prefab
+  artifactKey: Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_D.prefab using Guid(31dd104a271d83040993424dbcc17d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac5ea7d2286a22e42f80c3abd5e30ae') in 0.007564 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 11.955740 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_A.prefab
+  artifactKey: Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_A.prefab using Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9737b32459cceba585e4d28659eea4') in 0.008488 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 10.685972 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_A.prefab
+  artifactKey: Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_A.prefab using Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c6ed8e0ee6bf646225397fa05f159eb') in 0.007641 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 6.871858 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_A.prefab
+  artifactKey: Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_A.prefab using Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56cc7222b089afdd12822be11db1d1f2') in 0.006184 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 13.722947 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_A.prefab
+  artifactKey: Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_A.prefab using Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d24f111b271ad75104f2ed12f1a9c57') in 0.006089 seconds 
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 17.003360 seconds.
+  path: Assets/Vegetation/Prefab/Cactus_A.prefab
+  artifactKey: Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Cactus_A.prefab using Guid(25b7310f6077068478cd7e4defadc440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d631640fcd3ea75eee329a72bfa367e') in 0.008717 seconds 
+Number of asset objects unloaded after import = 12
