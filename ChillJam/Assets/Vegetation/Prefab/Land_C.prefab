@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 488956}
   - component: {fileID: 3377300}
   - component: {fileID: 2386268}
+  - component: {fileID: 1671564603914079071}
   m_Layer: 0
   m_Name: Land_C
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &1671564603914079071
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 169858}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 4300010, guid: 1e4b37dee538fa643a1b61b19e1ff33c, type: 3}

@@ -6103,3 +6103,367 @@ Received Import Request.
 Number of updated assets reloaded before import = 0
 Start importing Assets/Vegetation/Prefab/Land_C.prefab using Guid(b52549c98df120c4ab8c81995c77743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fefe19bdf710365666380614b532a28f') in 0.006090 seconds 
 Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001096 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fdd3000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.929 seconds
+Domain Reload Profiling:
+	ReloadAssembly (930ms)
+		BeginReloadAssembly (123ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (759ms)
+			LoadAssemblies (44ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (499ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (28ms)
+				ProcessInitializeOnLoadAttributes (457ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3574 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (4.5 MB). Loaded Objects now: 4217.
+Memory consumption went from 188.6 MB to 184.1 MB.
+Total: 3.671916 ms (FindLiveObjects: 0.130709 ms CreateObjectMapping: 0.078916 ms MarkObjects: 2.398750 ms  DeleteObjects: 1.063084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 68551.688454 seconds.
+  path: Assets/Vegetation/Prefab/Hill_A.prefab
+  artifactKey: Guid(488b698cdd1e04049b8f5ab1872f6804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_A.prefab using Guid(488b698cdd1e04049b8f5ab1872f6804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb2679ca0aca5adcfcb3c08d1fb3455') in 0.041626 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 16.844727 seconds.
+  path: Assets/Vegetation/Prefab/Land_E1.prefab
+  artifactKey: Guid(31f1a4f383189334ba469468a13bae81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_E1.prefab using Guid(31f1a4f383189334ba469468a13bae81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23804085ca2f1fb4ad27d19834edfbb') in 0.006372 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.004369 seconds.
+  path: Assets/Vegetation/Prefab/Hill_A.prefab
+  artifactKey: Guid(488b698cdd1e04049b8f5ab1872f6804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_A.prefab using Guid(488b698cdd1e04049b8f5ab1872f6804) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93035000dcefcb340b9533c0d0251faf') in 0.005194 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001180 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fdd3000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.886 seconds
+Domain Reload Profiling:
+	ReloadAssembly (886ms)
+		BeginReloadAssembly (81ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (756ms)
+			LoadAssemblies (31ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (158ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (512ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (467ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3574 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (4.5 MB). Loaded Objects now: 4220.
+Memory consumption went from 188.6 MB to 184.1 MB.
+Total: 3.093417 ms (FindLiveObjects: 0.123417 ms CreateObjectMapping: 0.051708 ms MarkObjects: 1.951791 ms  DeleteObjects: 0.966125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 32.179909 seconds.
+  path: Assets/Vegetation/Prefab/Hill_A1.prefab
+  artifactKey: Guid(fc5e25467417e574889455472c78b987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_A1.prefab using Guid(fc5e25467417e574889455472c78b987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b651cdbbc14508131de64f44d6ba0b22') in 0.038162 seconds 
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 8.549008 seconds.
+  path: Assets/Vegetation/Prefab/Hill_B.prefab
+  artifactKey: Guid(c1ae69b6ddf5a2d4aa720f44351fd752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_B.prefab using Guid(c1ae69b6ddf5a2d4aa720f44351fd752) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1e5a526b19a0ba9d9622eed8bddf62') in 0.007549 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.432693 seconds.
+  path: Assets/Vegetation/Prefab/Hill_B1.prefab
+  artifactKey: Guid(c5f67e26940aab544846a8a044e565fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_B1.prefab using Guid(c5f67e26940aab544846a8a044e565fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8e6255b0e8f866c3ef487f0d9a6ae7') in 0.005954 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.191279 seconds.
+  path: Assets/Vegetation/Prefab/Hill_C.prefab
+  artifactKey: Guid(2042aa66629cc8647859d637c04ed63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_C.prefab using Guid(2042aa66629cc8647859d637c04ed63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f02ed9de2df6a8409b3b9595a3cd9910') in 0.004758 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.260133 seconds.
+  path: Assets/Vegetation/Prefab/Hill_C1.prefab
+  artifactKey: Guid(f62854c09c7fcdf4c84c7f3335b749c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_C1.prefab using Guid(f62854c09c7fcdf4c84c7f3335b749c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bab44b02b62cd8158130ad2f3c218958') in 0.005762 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.170031 seconds.
+  path: Assets/Vegetation/Prefab/Hill_D.prefab
+  artifactKey: Guid(4f27c8e2434f73641a99ae7bf1329cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_D.prefab using Guid(4f27c8e2434f73641a99ae7bf1329cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4ef1d0571ee88e4de4292aa59b1bbe3') in 0.004758 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.336823 seconds.
+  path: Assets/Vegetation/Prefab/Hill_D1.prefab
+  artifactKey: Guid(9028c6d3dae15174c84dfed16664394d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_D1.prefab using Guid(9028c6d3dae15174c84dfed16664394d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f727ff0f93b5061b49f7671f4865fff') in 0.005333 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 2.419755 seconds.
+  path: Assets/Vegetation/Prefab/Hill_E.prefab
+  artifactKey: Guid(ae702dbbc5eb1b54a9b160c2c1200fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_E.prefab using Guid(ae702dbbc5eb1b54a9b160c2c1200fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f995e04a9e582cab6aee668bde8860d9') in 0.005932 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.093504 seconds.
+  path: Assets/Vegetation/Prefab/Hill_E1.prefab
+  artifactKey: Guid(c9406e53476440a4a909b7ad02361056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Hill_E1.prefab using Guid(c9406e53476440a4a909b7ad02361056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9bc41539c4a4c68daec9f92a9b0cb1') in 0.006015 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 4.307210 seconds.
+  path: Assets/Vegetation/Prefab/Land_A.prefab
+  artifactKey: Guid(b714d540d3161624588abacf2513720e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_A.prefab using Guid(b714d540d3161624588abacf2513720e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d8727f7aa94bce824312b1a255bcb96') in 0.006867 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.621971 seconds.
+  path: Assets/Vegetation/Prefab/Land_A1.prefab
+  artifactKey: Guid(bb7bfe25a83799a46b870de2eb3a5bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_A1.prefab using Guid(bb7bfe25a83799a46b870de2eb3a5bee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060ed5e6928c8cd633b6255767874fe9') in 0.006378 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.252153 seconds.
+  path: Assets/Vegetation/Prefab/Land_B.prefab
+  artifactKey: Guid(fa86f9693cbb5ec42a8b4c540096bcb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_B.prefab using Guid(fa86f9693cbb5ec42a8b4c540096bcb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03b77c4e9af35eeb38f8cc1183e345d1') in 0.006904 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.805838 seconds.
+  path: Assets/Vegetation/Prefab/Land_B1.prefab
+  artifactKey: Guid(da3bd4e34a778f94484ea34a86adcc6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_B1.prefab using Guid(da3bd4e34a778f94484ea34a86adcc6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be01c410a1bad3b9a571d98fda2776e6') in 0.005337 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.226881 seconds.
+  path: Assets/Vegetation/Prefab/Land_C.prefab
+  artifactKey: Guid(b52549c98df120c4ab8c81995c77743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_C.prefab using Guid(b52549c98df120c4ab8c81995c77743f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da4550375f806a0a8cc999ea25e40cde') in 0.006447 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 2.816562 seconds.
+  path: Assets/Vegetation/Prefab/Land_C1.prefab
+  artifactKey: Guid(0960fc365893a7349ac4ade9d9ac703e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_C1.prefab using Guid(0960fc365893a7349ac4ade9d9ac703e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573efc08950805835992cfa7edf2d720') in 0.005741 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.051446 seconds.
+  path: Assets/Vegetation/Prefab/Land_D.prefab
+  artifactKey: Guid(b203583ed357d5a4b948511579bc45b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_D.prefab using Guid(b203583ed357d5a4b948511579bc45b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bbc70205f414bba2d64c8dafb7ff3c') in 0.005925 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.035632 seconds.
+  path: Assets/Vegetation/Prefab/Land_D1.prefab
+  artifactKey: Guid(579b282b7466ab944a2cab9416c4c47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_D1.prefab using Guid(579b282b7466ab944a2cab9416c4c47f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a809a4265faeb76bfd355fd783e51f2e') in 0.006714 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 2.675260 seconds.
+  path: Assets/Vegetation/Prefab/Land_E.prefab
+  artifactKey: Guid(07a2cd946a042164d957db2a04c75679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_E.prefab using Guid(07a2cd946a042164d957db2a04c75679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051a0d037e1af0246a6fd27cb20917ac') in 0.005748 seconds 
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 3.071982 seconds.
+  path: Assets/Vegetation/Prefab/Land_E1.prefab
+  artifactKey: Guid(31f1a4f383189334ba469468a13bae81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Land_E1.prefab using Guid(31f1a4f383189334ba469468a13bae81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760397a9afb7dce8f3d82f0805510d76') in 0.004578 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 3.645467 seconds.
+  path: Assets/Vegetation/Prefab/Temple.prefab
+  artifactKey: Guid(5428a2fd56973ef47a63b64ef03e085f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Number of updated assets reloaded before import = 0
+Start importing Assets/Vegetation/Prefab/Temple.prefab using Guid(5428a2fd56973ef47a63b64ef03e085f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6f9bc0131b82bea0201a776bd94aea8') in 0.006446 seconds 
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001001 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x16fdd3000 may have been prematurely finalized
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Completed reload, in  0.884 seconds
+Domain Reload Profiling:
+	ReloadAssembly (884ms)
+		BeginReloadAssembly (80ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (2ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (754ms)
+			LoadAssemblies (35ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (165ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (500ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (2ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (27ms)
+				ProcessInitializeOnLoadAttributes (458ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3574 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 97 unused Assets / (4.5 MB). Loaded Objects now: 4223.
+Memory consumption went from 188.6 MB to 184.1 MB.
+Total: 3.241334 ms (FindLiveObjects: 0.133792 ms CreateObjectMapping: 0.059291 ms MarkObjects: 2.087958 ms  DeleteObjects: 0.960084 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
