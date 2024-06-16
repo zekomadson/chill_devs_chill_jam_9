@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 468818}
   - component: {fileID: 3363648}
   - component: {fileID: 2341948}
+  - component: {fileID: -4247604468510999900}
   m_Layer: 0
   m_Name: Broad_leaved_trees_B
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!136 &-4247604468510999900
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 198238}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 0.2
+  m_Height: 2.2021675
+  m_Direction: 1
+  m_Center: {x: -0.017701268, y: 0.9874506, z: -0.11239371}
