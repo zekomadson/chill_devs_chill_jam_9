@@ -7,8 +7,7 @@ public class NPCController : MonoBehaviour
 {
     [SerializeField]
     private NavMeshAgent agent;
-    [SerializeField]
-    public Transform[] waypoints;
+    private Transform[] waypoints;
     private int destinationPoint;
     private float closeToWaypointDist;
 
@@ -19,8 +18,30 @@ public class NPCController : MonoBehaviour
         agent.autoBraking = false;
         destinationPoint = 0;
         closeToWaypointDist = 1f;
+        string tag = gameObject.tag;
+        waypoints = GetWaypoints(tag);
 
-        GoToNextPoint();
+        if (waypoints != null && waypoints.Length > 0)
+        {
+            GoToNextPoint();
+        }
+        else
+        {
+            Debug.LogError("No waypoints found. Make sure there are game objects tagged with '" + tag + "_waypoint'.");
+        }
+    }
+
+    private Transform[] GetWaypoints(string tag)
+    {
+        string waypointTag = tag + "_waypoint";
+        GameObject[] waypointObjects = GameObject.FindGameObjectsWithTag(waypointTag);
+        Transform[] beacons = new Transform[waypointObjects.Length];
+        for (int i = 0; i < waypointObjects.Length; i++)
+        {
+            beacons[i] = waypointObjects[i].transform;
+        }
+
+        return beacons;
     }
 
     void GoToNextPoint()
@@ -37,7 +58,7 @@ public class NPCController : MonoBehaviour
         {
             newDestinationPoint = Random.Range(0, waypoints.Length);
         }
-        
+
         destinationPoint = newDestinationPoint;
         agent.destination = waypoints[destinationPoint].position;
     }
@@ -45,11 +66,9 @@ public class NPCController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
         if (!agent.pathPending && agent.remainingDistance < closeToWaypointDist)
         {
             GoToNextPoint();
         }
-        
     }
 }
