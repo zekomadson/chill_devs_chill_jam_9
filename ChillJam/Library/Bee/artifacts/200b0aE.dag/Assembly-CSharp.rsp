@@ -349,6 +349,7 @@
 "Assets/Ghost/Scripts/GhostScript.cs"
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/GameManager.cs"
+"Assets/Scripts/NPCController.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Rotator.cs"
 "Assets/Vegetation/Script/TakeScreenshot.cs"
