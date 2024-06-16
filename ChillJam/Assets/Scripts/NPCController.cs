@@ -17,7 +17,7 @@ public class NPCController : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
         agent.autoBraking = false;
         destinationPoint = 0;
-        closeToWaypointDist = 1f;
+        closeToWaypointDist = 4f;
         string tag = gameObject.tag;
         waypoints = GetWaypoints(tag);
 
