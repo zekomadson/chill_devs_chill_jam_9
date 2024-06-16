@@ -1,3 +1,0 @@
-Temp/ScriptUpdater/1498692070/1843743516_TonemappingEditor.cs => Assets/Vegetation/Editor/ImageEffects/TonemappingEditor.cs
-Temp/ScriptUpdater/1498692070/1775216353_BloomEditor.cs => Assets/Vegetation/Editor/ImageEffects/BloomEditor.cs
-Temp/ScriptUpdater/1498692070/1419537472_BloomAndFlaresEditor.cs => Assets/Vegetation/Editor/ImageEffects/BloomAndFlaresEditor.cs

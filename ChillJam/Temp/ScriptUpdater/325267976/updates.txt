@@ -1,5 +1,0 @@
-Temp/ScriptUpdater/325267976/21282904_TakeScreenshot.cs => Assets/Vegetation/Script/TakeScreenshot.cs
-Temp/ScriptUpdater/325267976/1262750967_SunShafts.cs => Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
-Temp/ScriptUpdater/325267976/519621385_BloomAndFlares.cs => Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
-Temp/ScriptUpdater/325267976/211207909_DepthOfField.cs => Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
-Temp/ScriptUpdater/325267976/1539669388_Bloom.cs => Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs

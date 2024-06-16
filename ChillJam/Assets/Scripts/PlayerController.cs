@@ -6,23 +6,39 @@ using TMPro;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 0;
-
     public TextMeshProUGUI ctText;
-
     private int coffeeBeanCt;
     private Rigidbody rb;
-
     private float movementX;
     private float movementY;
+    private float jumpForce;
+    public float speed = 0;
+
+    private bool isGrounded;
+    private float gravityModifier;
+
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody>();
         coffeeBeanCt = 0;
+        jumpForce = 10f;
+        gravityModifier = 2f;
+        isGrounded = true;
+
+        Physics.gravity *= gravityModifier;
+
     }
 
+    void Update()
+    {
+        if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            isGrounded = false;
+        }
+    }
     void OnMove(InputValue movementValue)
     {
         Vector2 movementVector = movementValue.Get<Vector2>();
@@ -41,6 +57,11 @@ public class PlayerController : MonoBehaviour
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
         rb.AddForce(movement * speed);
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        isGrounded = true;
     }
 
     void OnTriggerEnter(Collider other)
