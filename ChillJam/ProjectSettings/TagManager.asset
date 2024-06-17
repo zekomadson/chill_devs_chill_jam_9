@@ -7,6 +7,12 @@ TagManager:
   - Collectible
   - coconut
   - coconut_waypoint
+  - palm_tree_waypoint
+  - palm_tree
+  - cacti
+  - cacti_waypoint
+  - grassy_waypoint
+  - grassy
   layers:
   - Default
   - TransparentFX
