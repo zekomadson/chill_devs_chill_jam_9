@@ -14,7 +14,8 @@ URL: https://itch.io/jam/chill-jam-9
 - There are different styles of coffee, different ingredients generate different types of coffee.
 
 ## Next Steps:
--  Start Menu
+-  Start Menu:
+      - Completed
 -  Pause Menu
 -  Game Over
 -  Camera Follow Turning of Character
