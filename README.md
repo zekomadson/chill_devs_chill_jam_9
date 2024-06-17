@@ -23,3 +23,5 @@ URL: https://itch.io/jam/chill-jam-9
 -  Inventory
 -  Interact with environment (brew coffee)
 -  Action to turn ingredients into new object
+-  Font
+    - Completed
