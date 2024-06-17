@@ -14,13 +14,12 @@ URL: https://itch.io/jam/chill-jam-9
 - There are different styles of coffee, different ingredients generate different types of coffee.
 
 ## Next Steps:
-- Setup Pause Menu
-- Setup Game Over Menu
-- Set up home base for ghost
-  - A simple fire that brews the coffee.
-- Set up initial beach to find coffee beans
-- Gravestones have new recipes, they are cryptic.
-- NPCs Navigate between waypoints
-- NPCs chase you once you get close and will chase for 10-15 seconds
-  - If NPC damages you their timer resets
-- Sound and Effects when you move 
+-  Start Menu
+-  Pause Menu
+-  Game Over
+-  Camera Follow Turning of Character
+-  Healthbar
+-  Energy Bar
+-  Inventory
+-  Interact with environment (brew coffee)
+-  Action to turn ingredients into new object
