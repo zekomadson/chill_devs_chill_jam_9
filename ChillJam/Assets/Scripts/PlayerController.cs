@@ -18,6 +18,8 @@ public class PlayerController : MonoBehaviour
     private float gravityModifier;
 
 
+    // Import Pause Menu or figure out how to grab the global variable from Game Manager (isPaused)
+
     // Start is called before the first frame update
     void Start()
     {
@@ -33,6 +35,9 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+
+        // Add a check here to see if PauseMenu.isPaused is True or false
+
         if(Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
