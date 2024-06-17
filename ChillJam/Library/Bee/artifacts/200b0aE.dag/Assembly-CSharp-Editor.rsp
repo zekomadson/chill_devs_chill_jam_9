@@ -374,6 +374,7 @@
 "Assets/Vegetation/Editor/ImageEffects/SunShaftsEditor.cs"
 "Assets/Vegetation/Editor/ImageEffects/TonemappingEditor.cs"
 "Assets/Vegetation/Editor/ImageEffects/VignetteAndChromaticAberrationEditor.cs"
+"Assets/Water/Scripts/Editor/GeneratePlane.cs"
 -langversion:9.0
 
 /deterministic

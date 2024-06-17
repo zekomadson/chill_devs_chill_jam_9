@@ -391,6 +391,7 @@
 "Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs"
 "Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs"
 "Assets/Vegetation/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs"
+"Assets/Water/Scripts/LowPolyWater.cs"
 -langversion:9.0
 
 /deterministic
